@@ -1,0 +1,3 @@
+food -100.0
+due -200.0
+sis taken-300.0
